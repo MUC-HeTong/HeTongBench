@@ -63,6 +63,7 @@ At present, the directories above contain placeholder files only. Their presence
 
 - [HeTong Model Family](https://github.com/MUC-HeTong/HeTong)
 - [HeTongEval — Evaluation and Monitoring](https://github.com/MUC-HeTong/HeTongEval)
+- [HeTongRank — Planned Leaderboards](https://github.com/MUC-HeTong/HeTongRank)
 
 ---
 
