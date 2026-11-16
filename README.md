@@ -2,11 +2,9 @@
 
 **HeTongBench: An Open Benchmark Suite for Multilingual, Multimodal, and Low-Resource Foundation Models**
 
-**和同评测基准体系**
+*Harmony in Diversity, Intelligence Across Languages.*
 
-*和而不同，智联万语。 — Harmony in Diversity, Intelligence Across Languages.*
-
-[中文文档](./README_zh.md) · [HeTong Model Family](https://github.com/MUC-HeTong/HeTong) · [HeTongEval](https://github.com/MUC-HeTong/HeTongEval)
+[Chinese documentation](./README_zh.md) · [HeTong Model Family](https://github.com/MUC-HeTong/HeTong) · [HeTongEval](https://github.com/MUC-HeTong/HeTongEval)
 
 > **Project status: Planning / Repository scaffolding.** No benchmark datasets, evaluation code, scores, or official leaderboard results are released in this repository yet.
 
@@ -64,7 +62,3 @@ At present, the directories above contain placeholder files only. Their presence
 - [HeTong Model Family](https://github.com/MUC-HeTong/HeTong)
 - [HeTongEval — Evaluation and Monitoring](https://github.com/MUC-HeTong/HeTongEval)
 - [HeTongRank — Planned Leaderboards](https://github.com/MUC-HeTong/HeTongRank)
-
----
-
-**HeTongBench — 和而不同，智联万语。**
